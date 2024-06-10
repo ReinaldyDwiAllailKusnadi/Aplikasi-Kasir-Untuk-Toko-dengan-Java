@@ -1,11 +1,34 @@
 # Aplikasi-Kasir-Untuk-Toko-dengan-Java
 Membuat Aplikasi Kasir Untuk Toko dengan Java menggunakan netbeans.
 
-!
+
+TAMPILAN LOGIN
 
 
 
 
+
+![LOGIN](https://raw.githubusercontent.com/ReinaldyDwiAllailKusnadi/Aplikasi-Kasir-Untuk-Toko-dengan-Java/main/aplikasi%20penjualan.PNG)
+
+
+TAMPILAN DATA BARANG
+
+
+![DATA BARANG](https://raw.githubusercontent.com/ReinaldyDwiAllailKusnadi/Aplikasi-Kasir-Untuk-Toko-dengan-Java/main/DATA%20BARANG.PNG) 
+
+
+TAMPILAN TRANSAKSI
+
+
+![TRANSAKSI](https://raw.githubusercontent.com/ReinaldyDwiAllailKusnadi/Aplikasi-Kasir-Untuk-Toko-dengan-Java/main/transaksi.PNG)
+
+
+
+
+TAMPILAN TRANSAKSI
+
+
+![Laporan](https://raw.githubusercontent.com/ReinaldyDwiAllailKusnadi/Aplikasi-Kasir-Untuk-Toko-dengan-Java/main/Laporan.PNG)
 
 
 
